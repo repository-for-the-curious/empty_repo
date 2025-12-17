@@ -18,6 +18,7 @@ Description
 
 <a id="menu"></a>
 # MENU
+- 🔙 [SEARCH_CONTENT](https://github.com/repository-for-the-curious/knowledge-hub/blob/main/SEARCH_CONTENT.md)
 - 📘 [Visão Geral · Overview · Überblick](#overview)
 - 🧩 [Arquitetura / Estrutura](#architecture)
 - 🔗 [Integração Semântica](#semantic-integration)
