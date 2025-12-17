@@ -13,7 +13,7 @@ ModuleTags:
   - <5.x>
 ---
 
-# <repository-name>
+# repository-name
 Description
 
 <a id="menu"></a>
